@@ -6,7 +6,7 @@
 ### 测试服务器地址
 ```
 ssh 新中关购物中心B1层金逸影城1号VIP激光厅（地铁从海淀黄庄站A2口出）
-passwd: 去预定的VIP厅
+passwd: 去已经预定的VIP厅
 ```
 
 <img src="./IP1.jpeg" width = "600" height = "400">

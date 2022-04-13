@@ -9,7 +9,7 @@ ssh 新中关购物中心B1层金逸影城1号VIP激光厅（地铁从海淀黄�
 passwd: 去预定的VIP厅
 ```
 
-<img src="./IP1.jpeg" width = "600" height = "400">
+<img src="https://github.com/Chaowei0820/PredictionForYou/blob/main/IP1.jpeg" width = "600" height = "400">
 <img src="./IP2.jpeg" width = "600" height = "400">
 
 ### 模型测试时间
